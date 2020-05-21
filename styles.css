@@ -60,7 +60,7 @@ li{
   width: 130px;
   height: 120px;
 }
-.bar{
+table.bar{
  background-color: slategrey;
     position: fixed;
     width: 100%;
