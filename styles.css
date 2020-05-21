@@ -1,5 +1,6 @@
 body{
   background-color: #272727;
+  text-align:center;
 
 }
 hr{
@@ -14,8 +15,13 @@ hr{
   width: 3%;
 }
 p{
-  color: #effffb;
-  text-align: center;
+    color: #effffb;
+    text-align: center;
+    width: 90%;
+    text-align: left;
+    margin: 30px auto;
+    line-height: 2;
+    font-weight: normal;
 }
 h1{
   color: #01ecd5;
