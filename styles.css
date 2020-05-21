@@ -40,8 +40,9 @@ ul{
   list-style-position: inside;
 }
 li{
-  text-align: center;
-  list-style-position: inside;
+    list-style-position: inside;
+    text-align: left;
+    margin: 20px 10%;
 }
 .logo{
   width: 50px;
